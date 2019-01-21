@@ -57,6 +57,7 @@ the table of content before making pull requests.
 - [BuildItSecure.ly](http://builditsecure.ly/)
 - [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+- [NodeBots MX](https://www.meetup.com/es-ES/NodeBotsMX/)
 
 ## IoT Hacks
 
